@@ -1,0 +1,44 @@
+[
+    {
+        "ID":"1",
+        "title":"Test",
+        "body":"Here is an example proposal, would you like to pick yes or no?",
+        "startTime":"1662599410",
+        "endTime":"1664058431",
+        "answers":{
+            "answer1":"Yes",
+            "answer2":"No",
+            "answer3":"",
+            "answer4":"",
+            "answer5":""
+        }
+    },
+    {
+        "ID":"2",
+        "title":"What to do with mint funds",
+        "body":"Should mint funds be sent to person 1 or person 2: Person 1 will do this one thing, where as person 2 will do this other thing",
+        "startTime":"1662599410",
+        "endTime":"1663204210",
+        "answers":{
+            "answer1":"Person 1",
+            "answer2":"Person 2",
+            "answer3":"",
+            "answer4":"",
+            "answer5":""
+        }
+    },
+    {
+        "ID":"3",
+        "title":"Big title test Big title testBig title testBig title testBig title test",
+        "body":"Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text Example text ",
+        "startTime":"1662599410",
+        "endTime":"1663204210",
+        "answers":{
+            "answer1":"1",
+            "answer2":"2",
+            "answer3":"3",
+            "answer4":"4",
+            "answer5":"5"
+        }
+    }
+]

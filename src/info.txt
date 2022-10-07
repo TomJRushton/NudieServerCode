@@ -1,0 +1,9 @@
+Completed
+-Entire Front End 
+-Contracts 
+-Trait Swap Backend
+-Staking
+
+This week 
+- Admin shop controls 
+- API systems

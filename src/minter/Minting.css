@@ -1,0 +1,189 @@
+
+ .Minter{
+    position: relative;
+    top:0;
+    right: 0;
+    float: right;
+ }
+
+ .MinterButton{
+      margin-left: 30px;
+      padding: 6px 15px;
+      border-color: #000000;
+      color: #000000;
+      background-color: rgb(255, 255, 255);
+      border-radius: 5px;
+      width:20vh;
+      /* margin-top: 10px; */
+      font-size: 15px;
+      font-weight: 800;
+      font-weight: bold;
+      cursor:pointer;
+      /* font-family: "poker"; */
+    }
+    
+    input {
+      border-top-style: hidden;
+      border-right-style: hidden;
+      border-left-style: hidden;
+      border-bottom-style: groove;
+      font-size: 16px;
+      width: 100%;
+      border-color: rgba(255, 255, 255, 0.1);
+      line-height: 32px;
+    }
+    
+    input:focus {
+      outline: none;
+      border-color: rgba(4, 4, 5, 0.4);
+    }
+    
+    #title {
+      padding-top: 32px;
+    }
+    
+    #status {
+      color:red;
+    }
+    
+    .uploadFile {
+      border: 4px dashed rgba(4, 4, 5, 0.1);
+      border-radius: 16px;
+      text-align: center;
+      padding: 32px 60px;
+    }
+    
+    .MintInfoBox{
+      color: rgb(255, 255, 255);
+      margin-top: 100px;
+    }
+  
+    
+    .mintButton {
+      padding-top: 10px;
+      margin-left: 10px;
+      padding: 12px 18px;
+      border-color: #000000;
+      color: #ffffff;
+      background-color: rgb(8, 35, 192);
+      border-radius: 15px;
+      font-size: 20px;
+      font-weight: 600;
+      font-weight: bold;
+      cursor:pointer;
+      width:400px;
+      height: 60px;
+    }
+  
+    .row {
+      flex-direction: "row";
+      flex-wrap: "wrap";
+    }
+  
+    .mintIncrement, .mintAmount, .mintDecrement {
+      display:inline-block;
+      border-color: rgba(66, 78, 106, 1);
+      border: outset;
+      color: #ffffff;
+      background-color: rgba(66, 78, 106, 1);
+      border-radius: 15px;
+      font-size: 40px;
+      font-weight: 600;
+      font-weight: bold;
+      cursor:pointer;
+      width:50px;
+      height: 50px;
+      text-align: center;
+    }
+  
+    .columns-holder {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .box {
+      width: 400px;
+      height: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 100px;
+      margin-top: 50vh;
+    }
+  
+    .box h2{
+      font-family: "poker";
+      font-size: 50px;
+      font-weight: 600;
+      letter-spacing: 2px;
+    }
+
+    .box1 {
+      width: 400px;
+      height: 100px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .box1 h2{
+      font-family: "poker";
+      font-size: 50px;
+      font-weight: 600;
+      letter-spacing: 2px;
+    }
+
+    .column{
+      display:block;
+    }
+
+    .verifyBox{
+      display: table;
+      position: absolute;
+      margin-top: -10vh;
+      margin-left: -20vh;
+      padding-bottom: 40px;
+      width:60vh;
+      height: 25vh;
+      border-radius: 12px;
+      background-color: rgba(0, 0, 0, 1);
+      border: solid #575757;
+    }
+    
+    .verifyBox h1{
+      margin-top: 7vh;
+      margin-bottom: 5vh;
+      color: #f1f1f1;
+      font-family: 'poker';
+      font-size: 30px;
+      text-align: center;
+    }
+    
+    .verifyBox h2{
+      font-family: 'poker';
+      font-size: 20px;
+    }
+
+    .verifyButtons{
+      margin-left: 30%;
+      display:table-row;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .verifyButton{
+      padding-bottom: 100px;
+    }
+
+    .button-holder{
+      position: relative;
+      justify-content: center;
+      display: flex;
+    }
+
+    @media screen and (max-width:640px) {
+      .MinterButton{
+        margin-left: 0px !important;
+      }
+  }
